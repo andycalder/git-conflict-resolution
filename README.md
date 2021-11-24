@@ -1,2 +1,2 @@
 # git-conflict-resolution
-Git running
+Git exercise - changed by Andrew
